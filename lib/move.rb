@@ -16,3 +16,5 @@ end
 def move(board, index)
   board[index] = "X"
   return board
+end
+  
